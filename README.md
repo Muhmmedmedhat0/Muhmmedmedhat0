@@ -16,7 +16,7 @@ Hi, I'm a creative front‑end developer. I develop compelling designs that spri
 -   🤔 I’m looking for achance to became a Full-Stack javaScript Developr.
 -   📫 How to reach me: muhmmedmedhat0gmail.com
 -   📱 Fell Free to contact me at <a href="tel:+20 1098 014 450">+20 1098 014 450</a>
--   😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+-   😄 I’m seeking to be ”Full-Stack javaScript Developer”.
 -   ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Bizness
