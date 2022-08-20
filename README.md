@@ -5,7 +5,7 @@ I am a MERN stack developer and I mostly use ReactJs, NextJs, NodeJs and MongoDB
 You can check out some of my projects and if you got any questions you can reach out in the links below.
 
 
-- 🌱 I’m currently learning **TypeScript and GraphGl**
+- 🌱 I’m currently learning **TypeScript and Graph ql**
 - 👨‍💻 All of my projects are available at GitHub: https://github.com/Muhmmedmedhat0
 - 💬 Ask me about **NextJs, ReactJs, NodeJs and ExpressJs ,javaScript(ES6), HTML, CSS**
 - 📫 How to reach me **muhmmedmedhat0@gmail.com**
