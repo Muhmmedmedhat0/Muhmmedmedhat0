@@ -1,5 +1,6 @@
 <h1 align="center">Hello Devs 👋, I'm Muhmmed Medhat</h1>
 <h3 align="center">A passionate Fullstack (MERN) developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmmedmedhat0&label=Profile%20views&color=0e75b6&style=flat" alt="muhmmedmedhat0" /> </p>
 
 - 🔭 I’m currently working on MERN Stack [E-commerce](https://github.com/Muhmmedmedhat0/e-commerce)
 
